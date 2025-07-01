@@ -1,6 +1,8 @@
-# Snake Game (Command Line Version)
+# Snake Game 
 
 This is a simple Snake game written in C by me and my classmate Matej. The game runs entirely in the command prompt/terminal window and uses ASCII characters for graphics.
+**Note:** The game is currently under development and not fully functional. We are working on fixing bugs and improving stability.
+
 
 ## Features
 
